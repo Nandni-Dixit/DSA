@@ -51,5 +51,6 @@ public class Spiralmatrix {
             endCol--;
             endRow--;  
         }
+        sc.close();
     }
 }
