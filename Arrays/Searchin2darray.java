@@ -1,4 +1,4 @@
-// Progranm to Search an element in 2d-array
+// Program to Search an element in 2d-array
 package DSA.Arrays;
 
 import java.util.Scanner;
