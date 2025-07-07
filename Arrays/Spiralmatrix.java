@@ -16,7 +16,6 @@ public class Spiralmatrix {
                 System.out.println("Enter the ["+i+"]["+j+"] Element:");
                 arr[i][j]=sc.nextInt();
             }
-        
         }
         // Logic to print Spiral matrix
         int startRow = 0 ;
